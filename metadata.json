@@ -1,0 +1,7 @@
+{
+  "name": "Ramadan Delivery Route Optimizer",
+  "description": "Optimize food delivery routes for Ramadan charity drives. Upload locations, assign deliveries via natural language, and get the most efficient routes with Google Maps integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
